@@ -1,0 +1,137 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 552px;
+	 height: 211px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #bg 
+{ 
+	 left: 0px; 
+	 top: 21px; 
+	 position: absolute; 
+	 width: 552px;
+	 height: 211px;
+	 z-index:1;
+} 
+#headerbg 
+{ 
+	 left: 9px; 
+	 top: 9px; 
+	 position: absolute; 
+	 width: 534px;
+	 height: 21px;
+	 z-index:5;
+} 
+#headertitle 
+{ 
+	 color: rgb(255, 255, 255);
+	 left: 15px; 
+	 top: 9px; 
+	 position: absolute; 
+	 z-index:5;
+} 
+#btnclose 
+{ 
+	 left: 519px; 
+	 top: 9px; 
+	 position: absolute; 
+	 z-index:5;
+} 
+#btnexpand 
+{ 
+	 left: 490px; 
+	 top: 9px; 
+	 position: absolute; 
+	 z-index:5;
+} 
+ #dialogcontainer 
+{ 
+	 left: 6px; 
+	 top: 6px; 
+	 position: absolute; 
+	 width: 540px;
+	 height: 196px;
+	 z-index:3;
+} 
+#dialog1 
+{ 
+	 color: rgb(0, 0, 0);
+	 left: 52px; 
+	 top: 49px; 
+	 position: absolute; 
+	 z-index:5;
+} 
+#dialog2 
+{ 
+	 color: rgb(0, 0, 0);
+	 left: 18px; 
+	 top: 75px; 
+	 position: absolute; 
+	 z-index:5;
+} 
+#dialog3 
+{ 
+	 color: rgb(0, 0, 0);
+	 left: 72px; 
+	 top: 100px; 
+	 position: absolute; 
+	 z-index:5;
+} 
+#options 
+{ 
+	 color: rgb(0, 0, 0);
+	 left: 118px; 
+	 top: 120px; 
+	 position: absolute; 
+	 z-index:5;
+} 
+#footer1 
+{ 
+	 color: rgb(0, 0, 0);
+	 left: 10px; 
+	 top: 170px; 
+	 position: absolute; 
+	 z-index:5;
+} 
+#footer2 
+{ 
+	 color: rgb(0, 0, 0);
+	 left: 370px; 
+	 top: 170px; 
+	 position: absolute; 
+	 z-index:5;
+} 
+
+ #footerbg 
+{ 
+	 left: 9px; 
+	 top: 160px; 
+	 position: absolute; 
+	 width: 534px;
+	 height: 41px;
+	 z-index:4;
+} 
+
+ #resize 
+{ 
+	 left: 535px; 
+	 top: 190px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 10px;
+	 z-index:5;
+} 
+
+
